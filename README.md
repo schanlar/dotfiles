@@ -1,4 +1,5 @@
-# Bash-config
+# dot-files
 
-This repo contains an example of my .bash_profile configuration file which is
+This repo contains various dotfiles.
+The example of the .bash_profile configuration file is
 heavily influenced by Nathaniel Landau.
