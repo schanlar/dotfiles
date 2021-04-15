@@ -1,0 +1,49 @@
+{
+  "_from": "https://www.atom.io/api/packages/marvel-monokai/versions/0.1.0/tarball",
+  "_id": "marvel-monokai@0.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-NphV6TqDZxQlbiJVqBWVYXkr/Wk8VzYmO/qbJQgZa67B9uts53QksRIAvLambO//Vu6GUoO0r8rmDU5gLv/Vog==",
+  "_location": "/marvel-monokai",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/marvel-monokai/versions/0.1.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/marvel-monokai/versions/0.1.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/marvel-monokai/versions/0.1.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/marvel-monokai/versions/0.1.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/marvel-monokai/versions/0.1.0/tarball",
+  "_shasum": "67a7ddb13e63e8317444bad5296721a367549a49",
+  "_spec": "https://www.atom.io/api/packages/marvel-monokai/versions/0.1.0/tarball",
+  "_where": "/private/var/folders/y6/62tg_s5s7536r0lp1mks4jl80000gn/T/apm-install-dir-202127-31448-16dntkx.831f",
+  "bugs": {
+    "url": "https://github.com/tyrollins/marvel-monokai/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A dark / colorful monokai syntax theme for Atom Editor.",
+  "engines": {
+    "atom": ">=1.12.0 <2.0.0"
+  },
+  "homepage": "https://github.com/tyrollins/marvel-monokai#readme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "monokai",
+    "dark",
+    "colorful",
+    "marvel"
+  ],
+  "license": "MIT",
+  "name": "marvel-monokai",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyrollins/marvel-monokai.git"
+  },
+  "theme": "syntax",
+  "version": "0.1.0"
+}
